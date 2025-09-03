@@ -14,7 +14,7 @@
 <about>
   <h2>About Me . . ----------------------------------------------------------></h2>
   <p>
-  Hi Everyone! My name is Bryon, I am a firmware engineer! I am pursuing a BS in Computer Engineering at Florida Polytechnic University. I love learning and staying on top of my game when it comes to upcoming technologies in the industry. ⠀⠀⠀
+  Hi Everyone! My name is Bryon, I am a firmware engineer! I have a BS in Computer Engineering from Florida Polytechnic University. I love learning and staying on top of my game when it comes to upcoming technologies in the industry. ⠀⠀⠀
   </p>  
 </about>
 
